@@ -1,3 +1,2 @@
 this is file1 in master brunch
-now is modified by develop branch to be added
 temp modify
